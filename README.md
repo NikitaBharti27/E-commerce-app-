@@ -1,6 +1,17 @@
 # E-commerce-app-
  React Concepts Applied: E-Commerce App Scenario
 You have a ProductCard component that displays a product’s name and price.
+
+
+
+
+
+
+
+
+
+
+
 Q1: How will you pass these values from the parent component?
 Ans: By using props. The parent component will pass name and price like this:
 <ProductCard name="iPhone" price={9000} />
